@@ -10,4 +10,4 @@ To prove you understand the basics, you will
 5. Commit your changes
 6. Push your changes to Github
 
-CHANGE THIS LINE HERE TO SUCCEED IN STEP 3
+Mihir stinks poopoo
